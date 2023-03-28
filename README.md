@@ -17,6 +17,10 @@ A wrapper around [telebit](https://telebit.cloud/) (A ngrok like service).
 - 2nd: ```cd telebit-python```
 - 3rd: ```sudo python3 setup.py install```
 
+OR
+
+```pip install telebit-python==0.1.0```
+
 
 ### Bug report
 Found any bug!

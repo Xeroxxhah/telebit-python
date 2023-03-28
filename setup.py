@@ -23,11 +23,4 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     keywords=['python', 'python3', 'telebit', 'tunnel'],
-    classifiers=[
-        "Development Status :: Running",
-        "Intended Audience :: Developers",
-        "Programming Language :: Python :: 3",
-        "Operating System :: Unix",
-        "Operating System :: MacOS ",
-    ],
 )
